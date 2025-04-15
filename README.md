@@ -1,4 +1,4 @@
-# JFOS (Java Framework Operating Shell)
+# JFOS (Java Flex Operating Shell)
 
 JFOS is a desktop environment and system shell written in Java, designed to run on top of a Linux kernel.
 
