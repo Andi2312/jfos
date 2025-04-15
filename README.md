@@ -6,10 +6,10 @@ The goal of JFOS is to create a lightweight, customizable, and fully Java-based 
 
 ## Planned Features
 
-***- JavaFX-based graphical environment
-- Fullscreen shell with taskbar and start menu
-- Application launcher and simple package integration
-- Modular structure for extensions and themes
-- Runs as a user-space application on Linux***
+***- JavaFX-based graphical environment***
+***- Fullscreen shell with taskbar and start menu***
+***- Application launcher and simple package integration***
+***- Modular structure for extensions and themes***
+***- Runs as a user-space application on Linux***
 
-JFOS is ideal for experimenting with Java as a system interface layer and building custom lightweight Linux-based experiences.****
+****JFOS is ideal for experimenting with Java as a system interface layer and building custom lightweight Linux-based experiences.****
